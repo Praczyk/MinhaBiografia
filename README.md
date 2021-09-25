@@ -1,2 +1,2 @@
 # MinhaBiografia
-Destinado a organizar as versões escritas da minha biografia.
+Destinado a organizar as versões da minha biografia.
